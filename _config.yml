@@ -10,8 +10,8 @@ tags:
   - theme
   - netlify
 show_hero: true
-menu: BTS
-  - title: BTS
+menu: 
+  - title: Home
     url: /
   - title: About
     url: /about
