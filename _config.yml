@@ -1,8 +1,8 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Daniflix
+title: Daniflix | A blog theme for Jekyll
+description: Daniflix is a template for Jekyll inspired by Netflix and made by
+  Daniela Chi.
 tags:
   - blog
   - template
@@ -10,8 +10,8 @@ tags:
   - theme
   - netlify
 show_hero: true
-menu:
-  - title: Home
+menu: BTS
+  - title: 
     url: /
   - title: About
     url: /about
@@ -19,9 +19,9 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: 250300479@ucaribe.edu
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: disqus_danichi
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
@@ -29,12 +29,12 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
+github_username: github_NicteDanielaChiBalam
+facebook_username: facebook_DanisChi
 twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+instagram_username: instagram_ddaaienn
+linkedin_username: linkedin_danichi2405
+medium_username: medium_danichi2405
 
 
 # Posts Settings
@@ -88,8 +88,8 @@ sass:
 
 # Plugins
 plugins:
-  - jekyll-paginate
-  - jekyll-paginate-content
+  - daniskyll-paginate
+  - danisyll-paginate-content
 
 # Exclude my node related stuff
 exclude: [
