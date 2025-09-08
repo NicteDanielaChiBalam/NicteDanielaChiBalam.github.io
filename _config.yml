@@ -11,7 +11,7 @@ tags:
   - netlify
 show_hero: true
 menu: BTS
-  - title: 
+  - title: BTS
     url: /
   - title: About
     url: /about
